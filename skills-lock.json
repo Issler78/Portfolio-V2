@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "portfolio-site": {
+      "source": "huyquocvq-lang/jimmy_portfolio",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/portfolio-site/SKILL.md",
+      "computedHash": "fe3c60eab42100a683d42b808c9a56fa5b772fd0ef650e88726b2475d93de5fb"
+    }
+  }
+}
