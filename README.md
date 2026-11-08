@@ -2,7 +2,7 @@
 
 > Bem-vindo(a) ao repositório do meu portfólio pessoal. O objetivo deste projeto é apresentar minhas habilidades, projetos e foco profissional de forma limpa, direta e com alta performance.
 
-🔗 **Acesse o portfólio online:** [https://seu-link-aqui.netlify.app](https://seu-link-aqui.netlify.app)
+🔗 **Acesse o portfólio online:** https://issler.netlify.app/
 
 ---
 
